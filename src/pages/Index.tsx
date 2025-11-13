@@ -137,7 +137,7 @@ const Index = () => {
               </div>
               <div className="grid grid-cols-3 gap-4 mt-12">
                 <div className="text-center">
-                  <div className="text-3xl font-bold text-primary">250+</div>
+                  <div className="text-3xl font-bold text-primary">100+</div>
                   <div className="text-sm text-muted-foreground">Завершённых проектов</div>
                 </div>
                 <div className="text-center">
