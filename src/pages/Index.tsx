@@ -112,9 +112,7 @@ const Index = () => {
         <div className="container mx-auto">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="animate-fade-in">
-              <Badge className="mb-4 bg-primary/10 text-primary border-primary/20">
-                Профессиональное обслуживание с 2005 года
-              </Badge>
+              <Badge className="mb-4 bg-primary/10 text-primary border-primary/20">Профессиональное обслуживание с 2020 года</Badge>
               <h1 className="text-5xl md:text-6xl font-bold mb-6 leading-tight">
                 Обслуживание и ремонт{' '}
                 <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
