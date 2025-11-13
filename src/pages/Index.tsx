@@ -91,7 +91,7 @@ const Index = () => {
               <div className="w-10 h-10 bg-gradient-to-br from-primary to-secondary rounded-lg flex items-center justify-center">
                 <Icon name="Flame" className="text-white" size={24} />
               </div>
-              <span className="text-xl font-bold">ГазСервис</span>
+              <span className="text-xl font-bold">Промгазэксплуатация</span>
             </div>
             <div className="hidden md:flex items-center gap-6">
               <a href="#services" className="hover:text-primary transition-colors">Услуги</a>
