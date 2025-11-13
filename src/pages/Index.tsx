@@ -212,9 +212,7 @@ const Index = () => {
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
               Портфолио выполненных проектов
             </h2>
-            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              Более 250 успешно реализованных проектов различной сложности
-            </p>
+            <p className="text-lg text-muted-foreground max-w-2xl mx-auto">Более 100 успешно реализованных проектов различной сложности</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
             {portfolio.map((project, index) => (
